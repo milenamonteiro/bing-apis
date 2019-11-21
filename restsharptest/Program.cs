@@ -159,7 +159,7 @@ namespace restsharptest
             HttpResponseMessage response = new HttpResponseMessage();
             using (var httpClient = new HttpClient { BaseAddress = baseAddress })
             {
-                using (var content = new StringContent("TipoCargaEnum=0&TotalEixo=2&DistanciaKM="+ Convert.ToInt16(distancia) + "&PossuiRetorno=1", System.Text.Encoding.UTF8, "application/x-www-form-urlencoded"))
+                using (var content = new StringContent("TipoCargaEnum=4&TotalEixo=2&DistanciaKM="+ Convert.ToInt16(distancia) + "&CargaLotacao=0", System.Text.Encoding.UTF8, "application/x-www-form-urlencoded"))
                 {
                     using (response = await httpClient.PostAsync("", content))
                     {
