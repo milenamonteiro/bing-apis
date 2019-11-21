@@ -1,0 +1,16 @@
+C:\Users\milen\Desktop\restsharptest\restsharptest\bin\Debug\restsharptest.exe.config
+C:\Users\milen\Desktop\restsharptest\restsharptest\bin\Debug\restsharptest.exe
+C:\Users\milen\Desktop\restsharptest\restsharptest\bin\Debug\restsharptest.pdb
+C:\Users\milen\Desktop\restsharptest\restsharptest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\milen\Desktop\restsharptest\restsharptest\bin\Debug\RestSharp.dll
+C:\Users\milen\Desktop\restsharptest\restsharptest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\milen\Desktop\restsharptest\restsharptest\bin\Debug\RestSharp.xml
+C:\Users\milen\Desktop\restsharptest\restsharptest\obj\Debug\restsharptest.csprojAssemblyReference.cache
+C:\Users\milen\Desktop\restsharptest\restsharptest\obj\Debug\restsharptest.csproj.CoreCompileInputs.cache
+C:\Users\milen\Desktop\restsharptest\restsharptest\obj\Debug\restsharptest.csproj.CopyComplete
+C:\Users\milen\Desktop\restsharptest\restsharptest\obj\Debug\restsharptest.exe
+C:\Users\milen\Desktop\restsharptest\restsharptest\obj\Debug\restsharptest.pdb
+C:\Users\milen\Desktop\restsharptest\restsharptest\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\milen\Desktop\restsharptest\restsharptest\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\milen\Desktop\restsharptest\restsharptest\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\milen\Desktop\restsharptest\restsharptest\bin\Debug\System.ServiceModel.Primitives.pdb
